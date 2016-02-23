@@ -10,6 +10,8 @@ namespace HelloWorldAgain
     {
         static void Main(string[] args)
         {
+            // Adding a line for the Hello world program
+            Console.WriteLine("Hello world");
         }
     }
 }
